@@ -1,1 +1,3 @@
-# adaptive10.05
+# adaptive
+
+https://ruslanhako.github.io/adaptive06new/
